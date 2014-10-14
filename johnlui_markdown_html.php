@@ -43,7 +43,6 @@ $(function() {
         'outdent'
         ],
       markdown: true,
-      toolbarFloat: false,
     });
     editor.setValue(vals[i]);
     editor.on('valuechanged', function(){
