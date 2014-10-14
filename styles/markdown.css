@@ -5,11 +5,11 @@ h1 {
   margin-left: 0;
 }
 h2, #content h2 {
-  font-size: 24px;
+  font-size: 18px;
   margin-left: 0;
 }
 h3, #content h3 {
-  font-size: 18px;
+  font-size: 16px;
   margin-left: 0;
 }
 blockquote {
@@ -23,7 +23,6 @@ blockquote {
 
 li {
   list-style: decimal;
-  line-height: 2em;
 }
 ul li {
   list-style: circle;
