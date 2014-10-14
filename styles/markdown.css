@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+h1 {
+  font-size: 32px;
+  margin-left: 0;
+}
+h2, #content h2 {
+  font-size: 24px;
+  margin-left: 0;
+}
+h3, #content h3 {
+  font-size: 18px;
+  margin-left: 0;
+}
+blockquote {
+  margin: 20px 0;
+  padding: 10.5px 21px;
+  border: none;
+  border-left: 5px solid #008E59;
+  color: #555;
+  font-size: 1em;
+}
+
+li {
+  list-style: decimal;
+  line-height: 2em;
+}
+ul li {
+  list-style: circle;
+}
+ol, ul {
+  margin-left: 20px;
+}
+
+p, #content p{
+  padding: 0;
+  margin: 10px 0;
+}
