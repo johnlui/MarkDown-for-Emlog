@@ -23,6 +23,7 @@ $(function() {
     var editor = editors[i];
     var editor = new Simditor({
       textarea: $('#'+editor),
+      defaultImage: '/content/plugins/johnlui_markdown/images/image.png',
       toolbar: [
         'title',
         'bold',
