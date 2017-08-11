@@ -3,6 +3,10 @@ MarkDown for Emlog
 
 完美的 emlog 博客系统 Markdown 编辑器，已出 2.0 版。
 
+## 预览
+
+![pic](https://lvwenhan.com/content/uploadfile/201708/ab341502364172.jpg)
+
 ## 版本记录
 
 * 2017年08月11日 2.0 版发布，体验更完美，不再修改系统文件，不再手动引入 jQuery，同时更换了文件夹名称
@@ -21,10 +25,6 @@ MarkDown for Emlog
 2. 将 `new_markdown` 文件夹压缩为 zip 文件
 3. 在 emlog 后台的“插件”页面手动上传 zip 进行安装
 4. 请务必记得取消旧的名为 `MarkDown` 编辑器的激活
-
-## 预览
-
-![pic](https://lvwenhan.com/content/uploadfile/201708/ab341502364172.jpg)
 
 ## 开源协议
 
