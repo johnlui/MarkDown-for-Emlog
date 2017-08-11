@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="<?php echo BLOG_URL; ?>content/plugins/johnlui_markdown/styles/simditor.css" />
 
-<script type="text/javascript" src="http://libs.baidu.com/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="//libs.baidu.com/jquery/2.1.1/jquery.min.js"></script>
 <script type="text/javascript" src="<?php echo BLOG_URL; ?>content/plugins/johnlui_markdown/scripts/js/module.min.js"></script>
 <script type="text/javascript" src="<?php echo BLOG_URL; ?>content/plugins/johnlui_markdown/scripts/js/hotkeys.js"></script>
 <script type="text/javascript" src="<?php echo BLOG_URL; ?>content/plugins/johnlui_markdown/scripts/js/simditor.min.js"></script>
