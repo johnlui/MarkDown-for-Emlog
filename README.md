@@ -22,6 +22,10 @@ MarkDown for Emlog
 3. 在 emlog 后台的“插件”页面手动上传 zip 进行安装
 4. 请务必记得取消旧的名为 `MarkDown` 编辑器的激活
 
+## 预览
+
+![pic](https://lvwenhan.com/content/uploadfile/201708/ab341502364172.jpg)
+
 ## 开源协议
 
 本项目遵循 MIT 协议开源，具体请查看根目录下的 LICENSE 文件。
